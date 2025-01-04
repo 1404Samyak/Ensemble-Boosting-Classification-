@@ -1,0 +1,1 @@
+Tested with almost all ML classifier algorithms and did the hyperparameter tuning on the model with best accuracy on training data with help of randomized search cv and StratifiedKFold as cross validation 
